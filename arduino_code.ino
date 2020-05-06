@@ -23,29 +23,29 @@ Keypad customKeypad = Keypad( makeKeymap(keys), rowPins, colPins, ROWS, COLS);
 
 /* -------------- Editable values -------------- */
 const int amount_menu = 20; //จำนวนเมนูอาหารทั้งหมด
-const int menu_word = 40;   //จำนวนตัวอักษรต่อ 1 เมนู
+const int menu_word = 41;   //จำนวนตัวอักษรต่อ 1 เมนู
 const int maxorder = 30;    //จำนวน order ทั้งหมดในเวลาเดียวกัน
 char listmenu[amount_menu][menu_word] = {
-  "01: Stewed pork leg on rice",
-  "02: Shrimp-paste fried rice",
-  "03: Rice porridge with shrimp",
-  "04: Fried rice with pork",
-  "05: Fried rice with chicken",
-  "06: Fried rice with shrimps",
-  "07: Fried rice with crabmeat",
-  "08: Steamed chicken with rice",
-  "09: Roasted duck on rice",
-  "10: Fried rice with pork",
-  "11: Fried rice with Shrimp",
-  "12: Fried rice with Chicken",
-  "13: Fried rice with Crab",
-  "14: Rice with roast duck",
-  "15: Rice with roasted red pork",
-  "16: Rice with crispy pork",
-  "17: Porridge with fish",
-  "18: Porridge with shrimp",
-  "19: Congee with pork",
-  "20: Fried chicken"
+  "01: basil leave with pork on rice",          //ผัดกะเพราหมู
+  "02: basil leave with crispy pork on rice",   //ผัดกะเพราหมูกรอบ
+  "03: basil leave with chicken on rice",       //ผัดกะเพราไก่
+  "04: Fried rice with pork",                   //ข้าวผัดหมู
+  "05: Fried rice with chicken",                //ข้าวผัดไก่
+  "06: Fried rice with shrimps",                //ข้าวผัดกุ้ง
+  "07: Fried rice with crabmeat",               //ข้าวผัดปู
+  "08: Fried kale vegetable",                   //ผัดผักบุ้ง
+  "09: Fried noodle with soya sauce",           //ผัดซีอิ๊ว
+  "10: Fried vegetable combination",            //ผัดผักรวมมิตร
+  "11: Phat Thai with fresh shrimp",            //ผัดไทยกุ้งสด
+  "12: Suki in broth",                          //สุกี้น้ำ
+  "13: Suki without broth",                     //สุกี้แห้ง
+  "14: Pork with lemon",                        //หมูมะนาว
+  "15: Vermicelli yam",                         //ยำวุ้นเส้น
+  "16: Instant noodle yam",                     //ยำมาม่า
+  "17: Stuffed egg",                            //ไข่ยัดไส้
+  "18: Minced prok in omlette",                 //ไข่เจียวหมูสับ
+  "19: Fried egg",                              //ไข่ดาว
+  "20: Plain rice"                              //ข้าวเปล่า
 };
 /* --------------------------------------------- */
 
