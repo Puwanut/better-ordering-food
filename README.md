@@ -1,6 +1,8 @@
 # Better-Ordering-Food
 Source Code in [arduino_node.ino](https://github.com/Puwanut/better-ordering-food/blob/master/arduino_code.ino)
 
+Poster in [Poster_Compro.pdf](https://github.com/Puwanut/better-ordering-food/blob/master/Poster_Compro.pdf)
+
 Link
 - [วิดีโอสาธิตวิธีการใช้งาน (Youtube)](https://youtu.be/MgAtvIEwM_A)
 - [Website รายละเอียดโครงงาน](https://puwanut.github.io/better-ordering-food/)
