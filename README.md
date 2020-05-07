@@ -1,5 +1,5 @@
 # Better-Ordering-Food
-Source Code in [arduino_node.ino](https://github.com/Puwanut/better-ordering-food/blob/master/arduino_code.ino)
+Source Code in [arduino_code.ino](https://github.com/Puwanut/better-ordering-food/blob/master/arduino_code.ino)
 
 Poster in [Poster_Compro.pdf](https://github.com/Puwanut/better-ordering-food/blob/master/Poster_Compro.pdf)
 

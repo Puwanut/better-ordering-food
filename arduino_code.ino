@@ -43,7 +43,7 @@ char listmenu[amount_menu][menu_word] = {
   "15: Vermicelli yam",                         //ยำวุ้นเส้น
   "16: Instant noodle yam",                     //ยำมาม่า
   "17: Stuffed egg",                            //ไข่ยัดไส้
-  "18: Minced prok in omlette",                 //ไข่เจียวหมูสับ
+  "18: Minced pork in omlette",                 //ไข่เจียวหมูสับ
   "19: Fried egg",                              //ไข่ดาว
   "20: Plain rice"                              //ข้าวเปล่า
 };
